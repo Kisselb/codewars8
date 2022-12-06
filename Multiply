@@ -1,0 +1,4 @@
+Multiply
+multiply = function (a,
+  return a * b;
+}
