@@ -1,0 +1,6 @@
+function sumMix(x){
+return x
+  .map (n=> parseInt(n))
+  .reduce((total,currentValue) =>{
+  return total + currentValue }, 0)
+          }
